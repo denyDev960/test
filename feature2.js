@@ -1,1 +1,1 @@
-const feature2 = 2;
+const feature2 = 3;
