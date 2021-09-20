@@ -6,3 +6,10 @@ const feature = 1;
 for (let i = 0; i < 10; i++) {
 		console.log(i);
 }
+
+class Animal {
+
+}
+
+const cat = new Animal();
+console.log(cat);
