@@ -15,3 +15,5 @@ class Animal {
 
 const cat = new Animal();
 console.log(cat);
+
+const feature = 3;
