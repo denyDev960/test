@@ -15,3 +15,5 @@ class Animal {
 
 const cat = new Animal();
 console.log(cat);
+
+const cat2 = new Animal('ффффф');
