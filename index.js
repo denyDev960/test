@@ -8,3 +8,10 @@ for (let i = 0; i < 10; i++) {
 }
 
 const feature2 = 2;
+
+class Animal {
+
+}
+
+const cat = new Animal();
+console.log(cat);
