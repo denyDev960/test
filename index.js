@@ -17,3 +17,5 @@ const cat = new Animal();
 console.log(cat);
 
 const feature = 3;
+
+const cat2 = new Animal('ффффф');
