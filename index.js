@@ -7,10 +7,13 @@ for (let i = 0; i < 10; i++) {
 		console.log(i);
 }
 
+
+// added comment feature
+const feature2 = 2;
+
 class Animal {
 
 }
 
 const cat = new Animal();
 console.log(cat);
-const feature2 = 2;
