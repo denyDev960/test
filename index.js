@@ -5,3 +5,5 @@ for (let i = 0; i < 10; i++) {
 }
 
 const feature = 1;
+
+// added comment feature
